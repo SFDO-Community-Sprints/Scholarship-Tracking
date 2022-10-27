@@ -20,7 +20,7 @@ Please replace with the URL for your Trailblazer Community group and/or Slack ch
 - Way 3. 
 
 # Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+Documentation can be found in the repository [wiki] (https://github.com/SFDO-Community-Sprints/Scholarship-Tracking/wiki)
 
 
 
