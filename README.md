@@ -20,7 +20,8 @@ Please replace with the URL for your Trailblazer Community group and/or Slack ch
 - Way 3. 
 
 # Project Resources and Documentation
-Documentation can be found in the repository [wiki] (https://github.com/SFDO-Community-Sprints/Scholarship-Tracking/wiki)
+- Documentation can be found in the repository [wiki] (https://github.com/SFDO-Community-Sprints/Scholarship-Tracking/wiki)
+- Initial Google Doc of notes from Dreamforce '22 (https://docs.google.com/document/d/1rVJ7cmNuWGiODI5bBYHP6W4LRLY713wVVqTCZ0_RBdI/edit#)
 
 
 
